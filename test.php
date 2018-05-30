@@ -10,7 +10,20 @@ $f = 'a';
 if ($a){
 	echo " a is true~!";
 }
-
-
+if ($b){
+	echo " b is true~!";
+}
+if ($c){
+	echo " c is true~!";
+}
+if ($d){
+	echo " d is true~!";
+}
+if ($e){
+	echo " e is true~!";
+}
+if ($f){
+	echo " f is true~!";
+}
 
 ?>
